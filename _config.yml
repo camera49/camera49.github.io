@@ -23,10 +23,10 @@ name                     : "영상제작팀"
 description              : "H&F Design Studio 영상제작팀 블로그 입니다."
 url                      : "https://camera49.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "camera49/camera49.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "../assets/images/profile/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "H&F STUDIO 영상제작팀"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -104,7 +104,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "H&F Studio 영상제작팀"
+  name             : "H&F Studio|영상제작팀"
   avatar           : "../assets/images/profile/bio_logo.png"
   bio              : "**H&F STUDIO 영상제작팀**|LINK"
   location         : "대한민국: 경기도"
