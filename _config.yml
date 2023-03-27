@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 locale                   : "ko-KR"
 title                    : "H&F DESIGN STUDIO | 영상제작팀"
 title_separator          : "|"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : version 1.0 
 name                     : "영상제작팀"
 description              : "H&F Design Studio 영상제작팀 블로그 입니다."
 url                      : "https://camera49.github.io"
