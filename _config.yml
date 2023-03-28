@@ -21,7 +21,7 @@ title_separator          : "|"
 subtitle                 : version 1.0 
 name                     : "영상제작팀"
 description              : "H&F Design Studio 영상제작팀 블로그 입니다."
-url                      : "https://comment"
+url                      : "https://camera49.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "camera49/comment"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
