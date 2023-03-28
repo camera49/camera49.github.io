@@ -26,7 +26,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "camera49/centos_1"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "../assets/images/profile/88x88.png"
-masthead_title           : "H&F STUDIO 영상제작팀"
+masthead_title           : "H&F DESIGN STUDIO | 영상제작팀"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
