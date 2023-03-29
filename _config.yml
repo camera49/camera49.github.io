@@ -23,7 +23,7 @@ name                     : "영상제작팀"
 description              : "H&F Design Studio 영상제작팀 블로그 입니다."
 url                      : "https://camera49.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "camera49/camera49.github.io"
+repository               : "camera49/comment"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "../assets/images/profile/88x88.png"
 masthead_title           : "H&F DESIGN STUDIO | 영상제작팀"
@@ -41,7 +41,7 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
   utterances:
-    theme                : "photon-dark" # (default), "github-dark"
+    theme                : "github-light" # (default), "github-dark"
     issue_term           : "pathname" # (default)
   giscus:
     repo_id              : # Shown during giscus setup at https://giscus.app
