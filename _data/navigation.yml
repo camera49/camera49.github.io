@@ -8,6 +8,8 @@ main:
     url: /year-archive/
   - title: "검색"
     url: /search/
+  - title: "일러두기 📢"
+    url: /about/
 
 docs:
   - title: "ABOUT"
