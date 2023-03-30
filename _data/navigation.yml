@@ -8,8 +8,6 @@ main:
     url: /year-archive/
   - title: "검색"
     url: /search/
-  - title: "일러두기📢"
-    url: /about/
 
 docs:
   - title: "ABOUT"
@@ -18,7 +16,8 @@ docs:
         url: /categories/
       - title: "태그"
         url: /tags/
-
+      - title: "일러두기📢"
+        url: /about/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
